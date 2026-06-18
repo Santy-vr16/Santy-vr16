@@ -1,16 +1,74 @@
-## Hi there 👋
+<div align="center">
+<img width="100%" src=" https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true "/>
+</div>
 
-<!--
-**Santy-vr16/Santy-vr16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">
+<span style="font-family: 'Segoe Script', cursive; font-size: 46px;">
+𝓢𝓪𝓷𝓽𝔂 𝓥𝓪𝓼𝓺𝓾𝓮𝔃 ✨
+</span>
+<img src=" https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif " width="35">
+</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología 🚀
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<img src=" https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif " width="320"/>
+</div>
+
+<br>
+
+
+<img src=" https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif " width="100%">
+
+## <picture><img src = " https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true " width = 50px></picture> Sobre mí
+
+
+- 💻 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Java y Git**
+- 🚀 Mi objetivo es convertirme en **Ingeniero de Software**
+- 🌱 Mejorando mis habilidades de desarrollo frontend y backend cada día
+- ⚡ Me gusta crear proyectos y personalizar experiencias digitales.
+
+## 🌐 Mis redes
+
+<div align="center">
+
+https://instagram.com/san_vr16 <img src=" https://skillicons.dev/icons?i=instagram " width="55"/></a>
+&nbsp;&nbsp;&nbsp;
+https://facebook.com/ <img src=" https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg " width="55"/></a>
+&nbsp;&nbsp;&nbsp;
+<a href="mailto: ericksantiago2806@gmail.com " title=" ericksantiago2806@gmail.com "> <img src=" https://skillicons.dev/icons?i=gmail " width="55"/></a>
+
+</div>
+
+<img src=" https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif " width="100%">
+<br>
+
+## 🛠️ Tecnologías y herramientas
+
+<div align="center">
+
+<img src=" https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode "/>
+
+</div>
+
+<br>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img src=" https://github-readme-streak-stats.herokuapp.com/?user=EricksantiagoVR&theme=tokyonight " height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+### ⭐ Gracias por visitar mi perfil
+
+</div>
+
+<img width="100%" src=" https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient "/>
