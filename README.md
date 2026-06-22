@@ -49,16 +49,10 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
 
 <br>
 
-## 📊 Estadísticas de GitHub
+
 
 <div align="center">
-<img src="https://herokuapp.com" height="180"/>
-</div>
-
-<br>
-
-<div align="center">
-### ⭐ Gracias por visitar mi perfil
+⭐ Gracias por visitar mi perfil
 </div>
 
 <div align="center">
