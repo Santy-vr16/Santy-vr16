@@ -35,7 +35,7 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
+  <a href="https://www.linkedin.com/in/tu-usuario" target="_blank"><img src="[https://skillicons.dev/icons?i=linkedin](https://www.linkedin.com/in/erick-vasquez-ba3470424/)" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ericksantiago2806@gmail.com" target="_blank" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 </div>
