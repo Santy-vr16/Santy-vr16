@@ -37,7 +37,7 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/tu-usuario" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="mailto:ericksantiago2806@gmail.com" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
+  <a href="mailto:ericksantiago2806@gmail.com" target="_blank" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 </div>
 
 
