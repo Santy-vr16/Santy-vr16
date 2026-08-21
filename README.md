@@ -47,7 +47,7 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql,git,github,vscode"/>
 </div>
 
 <br>
