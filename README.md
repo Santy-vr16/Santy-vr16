@@ -6,15 +6,15 @@
 <span style="font-family: 'Segoe Script', cursive; font-size: 46px;">
 𝓢𝓪𝓷𝓽𝔂 𝓥𝓪𝓼𝓺𝓾𝓮𝔃 ✨
 </span>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+<img src="https://i.pinimg.com/originals/5e/52/03/5e5203bc54a8b079e74b99f79a282317.gif" width="35">
 </h1>
 
 <h3 align="center">
-Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología 🚀
+Análisis y Desarrollo de Software (ADSO) 💻 | Apasionado por la tecnología 🚀
 </h3>
 
 <div align="center">
-<img src="https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF2OGphcDF6cTUwazdoZ2Vvcjkwdmk1Njh4a3pyeHlnaTdhOXA1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ypg1zWzMxl17y/giphy.gif" width="320"/>
 </div>
 
 <br>
@@ -23,10 +23,13 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> Sobre mí
 
-- 💻 Actualmente estoy aprendiendo **HTML, CSS, JavaScript, Java y Git**
-- 🚀 Mi objetivo es convertirme en **Ingeniero de Software**
-- 🌱 Mejorando mis habilidades de desarrollo frontend y backend cada día
-- ⚡ Me gusta crear proyectos y personalizar experiencias digitales.
+- 🎓 **Formación Actual:** Aprendiz en Análisis y Desarrollo de Software (ADSO) - 4.° trimestre en SENA Complejo Sur.
+- 📜 **Antecedentes:** Técnico en Contabilización de Operaciones Comerciales y Financieras (SENA Soacha, 2024).
+- 💻 **Desarrollo Web:** Enfoque en arquitectura cliente-servidor, desarrollo Frontend (HTML5, CSS3, JavaScript ES6+, React) y Backend.
+- 🗄️ **Bases de Datos:** Experiencia en gestión de bases de datos relacionales (MySQL, MariaDB) mediante phpMyAdmin y modelado MER.
+- ⚡ **Metodologías & Habilidades:** Control de versiones con Git/GitHub, metodologías ágiles (Scrum), desarrollo modular y resolución de problemas.
+- 🌐 **Idiomas:** Inglés — Nivel A2 (Básico / Intermedio bajo).
+- 🎯 **Objetivo:** En búsqueda de contrato de aprendizaje o patrocinio SENA para aportar valor en proyectos reales de software.
 
 ## 🌐 Mis redes
 
@@ -39,7 +42,6 @@ Análisis y desarrollo de software en curso 💻 | Apasionado por la tecnología
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ericksantiago2806@gmail.com" target="_blank" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 </div>
-
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <br>
