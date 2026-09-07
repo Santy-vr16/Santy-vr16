@@ -6,8 +6,6 @@
 <span style="font-family: 'Segoe Script', cursive; font-size: 46px;">
 𝓢𝓪𝓷𝓽𝔂 𝓥𝓪𝓼𝓺𝓾𝓮𝔃 ✨
 </span>
-<img src="https://i.pinimg.com/originals/5e/52/03/5e5203bc54a8b079e74b99f79a282317.gif" width="35">
-</h1>
 
 <h3 align="center">
 Análisis y Desarrollo de Software (ADSO) 💻 | Apasionado por la tecnología 🚀
