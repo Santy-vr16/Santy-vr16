@@ -47,7 +47,7 @@ Análisis y Desarrollo de Software (ADSO) 💻 | Apasionado por la tecnología �
 ## 🛠️ Tecnologías y herramientas
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,mysql,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,java,react,bootstrap,mysql,git,github,vscode"/>
 </div>
 
 <br>
