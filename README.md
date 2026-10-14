@@ -32,7 +32,7 @@ Análisis y Desarrollo de Software (ADSO) 💻 | Apasionado por la tecnología �
 ## 🌐 Mis redes
 
 <div align="center">
-  <a href="https://instagram.com/san_vr16" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
+  <a href="https://instagram.com/santvrs_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://facebook.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
