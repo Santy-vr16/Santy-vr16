@@ -11,10 +11,6 @@
 Análisis y Desarrollo de Software (ADSO) 💻 | Apasionado por la tecnología 🚀
 </h3>
 
-<div align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGF2OGphcDF6cTUwazdoZ2Vvcjkwdmk1Njh4a3pyeHlnaTdhOXA1eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ypg1zWzMxl17y/giphy.gif" width="320"/>
-</div>
-
 <br>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
