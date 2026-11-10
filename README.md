@@ -1,72 +1,115 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:000000,100:3a3a3a&section=header&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:03111c,100:00b4ff&text=Santy%20Vasquez&fontColor=00d4ff&fontSize=60&fontAlign=50&fontAlignY=38&desc=An%C3%A1lisis%20y%20Desarrollo%20de%20Software&descColor=7dd3fc&descSize=18&descAlignY=60&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&duration=3000&pause=1500&color=FFFFFF&center=true&vCenter=true&width=600&height=70&lines=Santy+Vasquez" alt="Santy Vasquez"/>
+<!-- GIF PROPIO: quita las flechas de comentario y cambia la URL por la de tu GIF
+<img src="URL_DE_TU_GIF" width="60" alt="gif"/>
+-->
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=BFBFBF&center=true&vCenter=true&width=700&height=40&lines=Aprendiz+ADSO+en+SENA+Complejo+Sur;Desarrollo+Web+Frontend+%26+Backend;React+%7C+JavaScript+%7C+Python+%7C+MySQL;Apasionado+por+la+tecnolog%C3%ADa" alt="Frases animadas"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=%3E+Aprendiz+ADSO+en+SENA+Complejo+Sur;%3E+Desarrollo+Web+Frontend+%26+Backend;%3E+React+%7C+JavaScript+%7C+Python+%7C+MySQL;%3E+Apasionado+por+la+tecnolog%C3%ADa" alt="Santy Vasquez"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/status-disponible-00d4ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/ruta-desarrollo_de_software-00b4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/SENA-ADSO-7dd3fc?style=for-the-badge&logoColor=white&labelColor=0d1117"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Santy-vr16&label=Visitas&color=00b4ff&style=for-the-badge&labelColor=0d1117" alt="Visitas"/>
+<img src="https://img.shields.io/github/followers/Santy-vr16?label=Seguidores&style=for-the-badge&color=00d4ff&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Santy-vr16&query=$.public_repos&label=Repositorios&style=for-the-badge&color=38bdf8&labelColor=0d1117&logo=github"/>
+<img src="https://img.shields.io/github/last-commit/Santy-vr16/Santy-vr16?label=%C3%9Altimo%20commit&style=for-the-badge&color=7dd3fc&labelColor=0d1117&logo=git&logoColor=white"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00b4ff,100:000000&height=2" width="100%"/>
 
 ## Sobre mí
 
-- 🎓 **Formación Actual:** Aprendiz en Análisis y Desarrollo de Software (ADSO) - 4.° trimestre en SENA Complejo Sur.
+- 🎓 **Formación actual:** Aprendiz en Análisis y Desarrollo de Software (ADSO), 4.° trimestre en SENA Complejo Sur.
 - 📜 **Antecedentes:** Técnico en Contabilización de Operaciones Comerciales y Financieras (SENA Soacha, 2024).
-- 💻 **Desarrollo Web:** Enfoque en arquitectura cliente-servidor, desarrollo Frontend (HTML5, CSS3, JavaScript ES6+, React) y Backend.
-- 🗄️ **Bases de Datos:** Experiencia en gestión de bases de datos relacionales (MySQL, MariaDB) mediante phpMyAdmin y modelado MER.
-- ⚡ **Metodologías & Habilidades:** Control de versiones con Git/GitHub, metodologías ágiles (Scrum), desarrollo modular y resolución de problemas.
-- 🌐 **Idiomas:** Inglés — Nivel A2 (Básico / Intermedio bajo).
-- 🎯 **Objetivo:** En búsqueda de contrato de aprendizaje o patrocinio SENA para aportar valor en proyectos reales de software.
+- 💻 **Desarrollo web:** Arquitectura cliente-servidor, Frontend (HTML5, CSS3, JavaScript ES6+, React) y Backend.
+- 🗄️ **Bases de datos:** MySQL y MariaDB con phpMyAdmin y modelado MER.
+- ⚡ **Metodologías:** Git/GitHub, Scrum, desarrollo modular y resolución de problemas.
+- 🌐 **Idiomas:** Inglés nivel A2 (básico / intermedio bajo).
+- 🎯 **Objetivo:** Contrato de aprendizaje o patrocinio SENA para aportar valor en proyectos reales de software.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00b4ff,100:000000&height=2" width="100%"/>
 
 ## Tecnologías y herramientas
 
 <div align="center">
+
 <img src="https://skillicons.dev/icons?i=html,css,js,java,python,fastapi,react,bootstrap,mysql,git,github,vscode&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=00d4ff"/>
+<img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnometerminal&logoColor=00d4ff"/>
+
+<br>
+
+<a href="https://steamcommunity.com/profiles/76561199469517295/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=7dd3fc"/></a>
+<a href="https://discord.com/users/1518677907801636899" target="_blank"><img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=7dd3fc"/></a>
+<img src="https://img.shields.io/badge/Xbox-000000?style=for-the-badge&logo=xbox&logoColor=7dd3fc"/>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00b4ff,100:000000&height=2" width="100%"/>
 
-## Estadísticas
+## Estadísticas de GitHub
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Santy-vr16&theme=dark&background=000000&border=333333&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=AAAAAA&dates=777777&hide_border=false" alt="Racha de contribuciones"/>
+<img src="https://streak-stats.demolab.com?user=Santy-vr16&theme=dark&background=000000&border=00b4ff&stroke=00b4ff&ring=00d4ff&fire=7dd3fc&currStreakNum=00d4ff&currStreakLabel=7dd3fc&sideNums=00d4ff&sideLabels=7dd3fc&dates=777777&hide_border=false" alt="Racha de contribuciones"/>
 
 <br><br>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Santy-vr16&show_icons=true&count_private=true&hide_border=false&bg_color=000000&border_color=333333&title_color=FFFFFF&icon_color=FFFFFF&text_color=C9C9C9" alt="Estadísticas de GitHub"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santy-vr16&layout=compact&hide_border=false&bg_color=000000&border_color=333333&title_color=FFFFFF&text_color=C9C9C9" alt="Lenguajes principales"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Santy-vr16&theme=github_dark" alt="Resumen del perfil"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Santy-vr16&theme=github_dark" alt="Repositorios por lenguaje"/>
+
+<br>
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Santy-vr16&theme=github_dark" alt="Lenguajes con más commits"/>
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Santy-vr16&theme=github_dark" alt="Estadísticas generales"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Santy-vr16&theme=github_dark&utcOffset=-5" alt="Horario de commits"/>
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Santy-vr16&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=FFFFFF&hide_border=true&custom_title=Actividad%20de%20contribuciones" alt="Gráfica de actividad"/>
+<sub>Calendario de contribuciones</sub>
+
+<img width="90%" src="https://ghchart.rshah.org/00b4ff/Santy-vr16" alt="Calendario de contribuciones"/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:ffffff,100:000000&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00b4ff,100:000000&height=2" width="100%"/>
 
 ## Mis redes
 
 <div align="center">
-  <a href="https://instagram.com/santvrs_" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
+  <a href="https://www.instagram.com/santvrs_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://facebook.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
+  <a href="https://www.facebook.com/SantyVasquez1826" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/erick-vasquez-ba3470424" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="55"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://discord.com/users/1518677907801636899" target="_blank" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="55"/></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://steamcommunity.com/profiles/76561199469517295/" target="_blank" title="Steam"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ericksantiago2806@gmail.com" target="_blank" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3a3a3a,100:000000&section=footer"/>
-
 <div align="center">
-⭐ Gracias por visitar mi perfil
-</div>
 
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+<br>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00b4ff&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontColor=000000&fontSize=22&fontAlignY=70"/>
+
 </div>
