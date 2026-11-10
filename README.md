@@ -2,13 +2,15 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000000,50:03111c,100:00b4ff&text=Santy%20Vasquez&fontColor=00d4ff&fontSize=60&fontAlign=50&fontAlignY=38&desc=An%C3%A1lisis%20y%20Desarrollo%20de%20Software&descColor=7dd3fc&descSize=18&descAlignY=60&animation=twinkling"/>
 
-<!-- GIF PROPIO: quita las flechas de comentario y cambia la URL por la de tu GIF
-<img src="URL_DE_TU_GIF" width="60" alt="gif"/>
--->
-
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=45&lines=%3E+Aprendiz+ADSO+en+SENA+Complejo+Sur;%3E+Desarrollo+Web+Frontend+%26+Backend;%3E+React+%7C+JavaScript+%7C+Python+%7C+MySQL;%3E+Apasionado+por+la+tecnolog%C3%ADa" alt="Santy Vasquez"/>
 
 <br>
+
+<img src="https://media.giphy.com/media/DqiMTFxiXx0VaVZQbF/giphy.gif" height="180" alt="GIF 1"/>
+&nbsp;&nbsp;
+<img src="https://media.giphy.com/media/VtUb9JDStIUda/giphy.gif" height="180" alt="GIF 2"/>
+
+<br><br>
 
 <img src="https://img.shields.io/badge/status-disponible-00d4ff?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/ruta-desarrollo_de_software-00b4ff?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117"/>
@@ -82,9 +84,7 @@
 
 <br><br>
 
-<sub>Calendario de contribuciones</sub>
-
-<img width="90%" src="https://ghchart.rshah.org/00b4ff/Santy-vr16" alt="Calendario de contribuciones"/>
+<img width="100%" src="https://raw.githubusercontent.com/Santy-vr16/Santy-vr16/output/github-contribution-grid-snake-dark.svg" alt="Serpiente de contribuciones"/>
 
 </div>
 
@@ -101,7 +101,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://discord.com/users/1518677907801636899" target="_blank" title="Discord"><img src="https://skillicons.dev/icons?i=discord" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://steamcommunity.com/profiles/76561199469517295/" target="_blank" title="Steam"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/steam/steam-original.svg" width="55"/></a>
+  <a href="https://steamcommunity.com/profiles/76561199469517295/" target="_blank" title="Steam"><img src="https://cdn.simpleicons.org/steam/66c0f4" width="55"/></a>
   &nbsp;&nbsp;&nbsp;
   <a href="mailto:ericksantiago2806@gmail.com" target="_blank" title="ericksantiago2806@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="55"/></a>
 </div>
@@ -110,6 +110,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00b4ff&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontColor=000000&fontSize=22&fontAlignY=70"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,100:00b4ff&section=footer&text=Gracias%20por%20visitar%20mi%20perfil&fontColor=ffffff&fontSize=22&fontAlignY=70"/>
 
 </div>
